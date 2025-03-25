@@ -1,6 +1,6 @@
 # projeto_perguntas
 
-Estudando flutter 
+Estudando Flutter 
 
 ## Getting Started
 
