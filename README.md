@@ -1,6 +1,6 @@
 # projeto_perguntas
 
-Estudando Flutter 
+Um simples projeto de perguntas e respostas feito em flutter
 
 ## Getting Started
 
